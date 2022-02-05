@@ -1,0 +1,9 @@
+Situation:
+
+    1) I have a local repository with an n amount of branches (none of them is named main).
+
+    2) I've created a remote repository on GitHub and I want to connect it with my 
+    local repository so I can upload to the remote repository what I've done in the local one. 
+
+    3) Something to consider: The default branch created on GitHub is named main.
+
