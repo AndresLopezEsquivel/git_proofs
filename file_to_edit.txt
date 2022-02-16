@@ -1,7 +1,4 @@
 Change 1 from local branch main.
 
-<<<<<<< HEAD
 Change 2 from local branch main.
-=======
 Change 2 from local branch proof.
->>>>>>> 86c9894 (Commit C)
