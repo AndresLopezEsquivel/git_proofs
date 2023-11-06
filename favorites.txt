@@ -1,4 +1,4 @@
-Pizza
+Pizza from remote repo
 Pozole
 Enchiladas
 Pan
