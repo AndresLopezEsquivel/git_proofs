@@ -1,3 +1,5 @@
 Tacos
 Pizza
 Pozole
+Enchiladas
+Pan
