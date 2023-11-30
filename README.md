@@ -1,3 +1,2 @@
 # Lista de cumplidos
-¿Dónde se encuentra el novio más lindo del universo? 
-R: En Nezahualcóyotl en modo mimido ( ु⁎ᴗ_ᴗ⁎)ु.｡oO
+Todos los días estaré a tu lado y te recordaré lo especial que eres ❤
