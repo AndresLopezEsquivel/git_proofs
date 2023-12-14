@@ -5,3 +5,4 @@ Algebra
 Calculus
 Circuits
 System dynamics
+Statistics
