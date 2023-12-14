@@ -4,3 +4,4 @@ ControlRobotics
 Algebra
 Calculus
 Circuits
+System dynamics
