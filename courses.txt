@@ -6,3 +6,5 @@ Calculus
 Circuits
 System dynamics
 Statistics
+Probability
+Probability applied to Kalman Filter
