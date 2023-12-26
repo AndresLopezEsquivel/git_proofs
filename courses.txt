@@ -7,8 +7,5 @@ Circuits
 System dynamics
 Statistics
 Probability
-<<<<<<< HEAD
 Probability applied to Kalman Filter
-=======
 Philosophy
->>>>>>> f307ba4 (Add philosophy to courses.txt)
